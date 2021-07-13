@@ -1,0 +1,5 @@
+101 : Pune : India : 5200
+100 : Chennai : India : 4800
+103 : Delhi : India : 7000
+104 : Kolkata : India : 1200
+102 : Mumbai : India : 5200
